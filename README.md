@@ -119,13 +119,13 @@ The welcome screen provides the entry point to the medical records application a
 ### 2. Patient Details Form
 
 The patient details form allows authorized doctors to enter and submit medical information, which is then recorded through the smart contract.
-<img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/f7664f5d-1668-439f-8d82-9a33accda920" />
+<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/25994fc7-78fc-4af5-82cd-d6d7a20565dd" />
 
 
 ### 3. Stored Medical Records & MetaMask
 
 The medical records page displays stored patient records retrieved from the blockchain. Users interact with the application through their MetaMask wallet for authentication and blockchain transactions.
-<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/25994fc7-78fc-4af5-82cd-d6d7a20565dd" />
+<img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/f7664f5d-1668-439f-8d82-9a33accda920" />
 
 
 
